@@ -64,3 +64,102 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body{
+	margin-top: 150px;
+	width: 100%;
+	padding: 0px 20px;
+	
+}
+nav{
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	background-color: white;
+}
+a{
+	padding: 0px 7% 0px 1%;
+	color: gray;
+	text-decoration: none;
+}
+.logo{
+	top: 0px;
+	margin: 5px 0px 0px 0px;
+	padding-top: 20px;
+}
+
+h1{
+	font-size: 80px;
+}
+.split2{
+	width: 20%;
+}
+.btn{
+	border: 2px solid black;
+	color: gray;
+	padding: 5px 40px 5px 40px;
+	
+}
+.child1{
+	display: inline-block;
+	width: 49%;
+	text-align: center;
+}
+.child2{
+	display: inline-block;
+	width: 49%;
+}
+.innovation{
+	font-family: 'Bangers', cursive;
+	font-size: 60pt;
+	text-align: center;
+	padding: 30px 120px;
+}
+.top{
+	margin-bottom: 50px;
+}
+.child11{
+	display: inline-block;
+	width: 49%;
+}
+.middle-img{
+	text-align: center;
+	padding: 10px 0px;
+	width: 100%;
+}
+.middle-pic{
+	width: 100%;
+}
+.child111{
+	display: inline-block;
+	width: 33%;
+}
+.child222{
+	display: inline-block;
+	width: 33%;
+}
+.child333{
+	display: inline-block;
+	width: 33%;
+}
+.mid{
+	padding: 50px 0px 0px 0px;
+}
+.contact{
+	text-align:center;
+}
+footer{
+	text-align: center;
+	margin-top: 50px;
+}
+section{
+	padding: 0px 0px 50px 0px;
+}
+.pic{
+	text-align: center;
+}
+h3{
+	margin: 20px 0px 10px 0px;
+}
+.space{
+	margin-top: 20px;
+}
